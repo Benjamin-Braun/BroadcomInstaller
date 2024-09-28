@@ -1,4 +1,4 @@
-# BroadcomInstaller2022
+# BroadcomInstaller
 Original script <a href="https://github.com/jaykali/BroadcomInstaller2022/tree/main">here</a>; Updated to work on a MacBook mid-2009.
 
 # Installation
