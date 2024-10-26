@@ -1,5 +1,8 @@
 # BroadcomInstaller
-Original script <a href="https://github.com/jaykali/BroadcomInstaller2022/tree/main">here</a>; Updated to work on a MacBook mid-2009.
+Automated Shell Script Install WiFi Driver ( Broadcom ) in Kali Linux 2022.2. Original script <a href="https://github.com/jaykali/BroadcomInstaller2022/tree/main">here</a>; Updated to work on a MacBook mid-2009.
+
+### Detailed Guide
+https://www.kalilinux.in/2020/03/how-to-install-wi-fi-driver-in-kali-linux.html
 
 # Installation
 
